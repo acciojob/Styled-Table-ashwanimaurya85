@@ -1,1 +1,17 @@
 /* your code */
+#col{
+background-color: blue;
+	background-text: white;
+	margin: 10px;
+	padding: 20px
+}
+#one{
+	background-color: gray;
+	margin: 30px;
+	padding: 40px
+}
+#two{
+	background-color: gray;
+	margin: 30px;
+	padding: 40px
+}
